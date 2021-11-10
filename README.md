@@ -2,9 +2,8 @@
 
  
 
-## I'm Fernando!
-
- 
+<h1 align="center">Hi 👋, I'm Fernando !</h1>
+<h3 align="center">I'm a Developer.</h3> 
 
 :computer: I'm systems programmer!
 
@@ -23,6 +22,15 @@
 
 ----------------------------------------------------------------------------------
 [![740fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=740fernando)](https://github.com/740fernando/github-readme-stats)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=740fernando&show_icons=true&locale=en&layout=compact" alt="740fernando" /></p>
+
+
 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
