@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm Fernando !</h1>
 <h3 align="center">I'm a Developer.</h3> 
 
-:computer: I'm systems programmer!
 
 :house_with_garden: I’m from Brazil.
 
