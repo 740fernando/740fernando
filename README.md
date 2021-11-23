@@ -29,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=740fernando&show_icons=true&locale=en&layout=compact" alt="740fernando" /></p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=740fernando" alt="740fernando" /></a> </p>
 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
