@@ -12,6 +12,7 @@
 
 :outbox_tray: 2021 Goals: create a news projects in differents technologies.
 
+
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/740fernando)](https://github.com/740fernando)
@@ -31,7 +32,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=740fernando" alt="740fernando" /></a> </p>
 
+
+
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=740fernando.740fernando)
+
 
 - Thanks for visiting.
 
