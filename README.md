@@ -12,6 +12,8 @@
 
 :outbox_tray: 2021 Goals: create a news projects in differents technologies.
 
+❓  Quer me mandar alguma pergunta? Abre uma issue aqui: [![Send your question](https://badgen.net/github/open-issues/740fernando/740fernando?color=1dd3d6)](https://github.com/740fernando/740fernando/issues)
+
 
 ## About me
 
