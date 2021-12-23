@@ -44,3 +44,8 @@
 - Thanks for visiting.
 
 - Enjoy it!! o/
+
+
+
+![Snake animation](https://github.com/740fernando/740fernando/blob/output/github-contribution-grid-snake.svg)
+
