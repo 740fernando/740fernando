@@ -53,3 +53,5 @@
 
 ![Snake animation](https://github.com/740fernando/740fernando/blob/output/github-contribution-grid-snake.svg)
 
+<a href="https://github.com/740fernando/github-readme-activity-graph"><img alt="740fernando Lidede's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=740fernando&bg_color=1c041c&color=de34eb&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
+
