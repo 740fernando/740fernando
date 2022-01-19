@@ -5,51 +5,63 @@
 <h3 align="center">I'm a Developer.</h3> 
 
 
-:house_with_garden: I’m from Brazil.
+<p align="center">:house_with_garden: I’m from Brazil. </p>
 
-:books: I’m currently learning everything.
+<p align="center">:books: I’m currently learning everything. </p>
 
-:outbox_tray: 2022 Goals: create a news projects in differents technologies.
+<p align="center"> :outbox_tray: 2022 Goals: create a news projects in differents technologies.  </p>
 
-❓  Quer me mandar alguma pergunta? Abre uma issue aqui: [![Send your question](https://badgen.net/github/open-issues/740fernando/740fernando?color=1dd3d6)](https://github.com/740fernando/740fernando/issues)
+<p align="center">  
+ ❓  Quer me mandar alguma pergunta? Abre uma issue aqui:  
+  <a href="https://github.com/740fernando/740fernando/issues">
+<img src="https://badgen.net/github/open-issues/740fernando/740fernando?color=1dd3d6" alt="Github">
+</a>
+</p>
 
+<p align="center">  
+ <a href="https://www.linkedin.com/in/fernando-luiz-de-souza-vieira-842890153/">
+ <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-luiz-de-souza-vieira-842890153" alt="Linkedin">
+</p>
 
-## About me
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-luiz-de-souza-vieira-842890153/)](https://www.linkedin.com/in/fernando-luiz-de-souza-vieira-842890153/)
 
 
 ----------------------------------------------------------------------------------
-[![740fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=740fernando)](https://github.com/740fernando/github-readme-stats)
+ <p align="center">  
+  <a href="https://github.com/740fernando/github-readme-stats/">
+   <img src="https://github-readme-stats.vercel.app/api?username=740fernando" alt="GitHub stats">
+  </a>
+</p>
 
-
-<<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=740fernando&show_icons=true&locale=en&layout=compact" alt="740fernando" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=740fernando" alt="740fernando" /></a> </p>
+<br>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=740fernando&show_icons=true&locale=en&layout=compact" alt="740fernando" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=740fernando" alt="740fernando" /></a> </p>
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=740fernando.740fernando)
+<p align="center"> 
+<img align="center" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+</p>
+
+<p align="center">  
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=740fernando.740fernando" alt="Contador">
+</p>
 
 
-- Thanks for visiting.
-
-- Enjoy it!! o/
-
+<p align="center">  
+Thanks for visiting
+</p>
+<p align="center">  
+Enjoy it!! o/
+</p>
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="900" />
 
 
 
-<a href="https://github.com/740fernando/github-readme-activity-graph"><img alt="740fernando Lidede's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=740fernando&bg_color=1c041c&color=de34eb&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
+<a align="center" href="https://github.com/740fernando/github-readme-activity-graph"><img alt="740fernando Lidede's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=740fernando&bg_color=1c041c&color=de34eb&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 
