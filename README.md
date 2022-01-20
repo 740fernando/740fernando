@@ -33,24 +33,31 @@
 </p>
 
 <br>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
+<br>
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=740fernando&show_icons=true&locale=en&layout=compact" alt="740fernando" /></p>
 
+<br>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=740fernando" alt="740fernando" /></a> </p>
 
-
+<br>
 <p align="center"> 
 <img align="center" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 </p>
+
+<br>
 
 <p align="center">  
  <img src="https://visitor-badge.laobi.icu/badge?page_id=740fernando.740fernando" alt="Contador">
 </p>
 
+<br>
 
 <p align="center">  
 Thanks for visiting
