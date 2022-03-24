@@ -69,10 +69,7 @@ Enjoy it!! o/
 </p>
 
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="900" />
 
 
 
-
-<a align="center" href="https://github.com/740fernando/github-readme-activity-graph"><img alt="740fernando Lidede's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=740fernando&bg_color=1c041c&color=de34eb&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 
