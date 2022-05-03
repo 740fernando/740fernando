@@ -63,7 +63,7 @@ Enjoy it!! o/
 
  <a href="https://www.linkedin.com/in/fernando-luiz-de-souza-vieira-842890153/">
  <img align="left" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-luiz-de-souza-vieira-842890153" alt="Linkedin">
-
+</a>
 <img align="right" src="https://img.shields.io/github/followers/740fernando?label=Follow&style=social" />
  <img/>
 
