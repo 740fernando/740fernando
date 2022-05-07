@@ -22,8 +22,8 @@
 
 
  
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=740fernando&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=740fernando&layout=compact&theme=merko&count_private=true" />
+<img align="left" height="135px" src="https://github-readme-stats.vercel.app/api?username=740fernando&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=740fernando&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
 
 
