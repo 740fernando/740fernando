@@ -31,7 +31,7 @@
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=740fernando&bg_color=144a19&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=740fernando&bg_color=144a19&color=ff7c00&line=00ffff&point=ffffff&area=true&hide_border=false&count_private=true)
 
 
 ----------------------------------------------------------------------------------
