@@ -20,6 +20,13 @@
 
 ----------------------------------------------------------------------------------
 
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=740fernando&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
+
+----------------------------------------------------------------------------------
+
  
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=740fernando&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=740fernando&layout=compact&theme=merko&count_private=true" />
@@ -34,11 +41,7 @@
 
 ----------------------------------------------------------------------------------
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=740fernando&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
 
-----------------------------------------------------------------------------------
 
 <p align="center">
   <img alig src="https://github-readme-streak-stats.herokuapp.com/?user=740fernando&theme=dark" />
