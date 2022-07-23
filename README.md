@@ -12,7 +12,7 @@
 <p align="center"> :outbox_tray: 2022 Goals: create a news projects in differents technologies.  </p>
 
 <p align="center">  
- ❓  Quer me mandar alguma pergunta? Abre uma issue aqui :  
+ ❓  Want to send me a question? Open an issue here :  
   <a href="https://github.com/740fernando/740fernando/issues">
 <img src="https://badgen.net/github/open-issues/740fernando/740fernando?color=1dd3d6" alt="Github">
 </a>
