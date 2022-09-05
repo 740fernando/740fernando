@@ -21,27 +21,23 @@
 ----------------------------------------------------------------------------------
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=740fernando&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=740fernando&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&theme=onedark" />
 </p>
 
 
 ----------------------------------------------------------------------------------
 
  
- 
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=740fernando&show_icons=true&theme=onedark&count_private=true" />
-
-
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=740fernando&layout=compact&theme=onedark&count_private=true" />
-<img height="150px" />
-
+<p align="center">
+ <img  src="https://github-readme-stats.vercel.app/api?username=740fernando&show_icons=true&theme=onedark&count_private=true" />
+</p>
 
 
 ----------------------------------------------------------------------------------
 
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=740fernando&bg_color=44475a&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true&count_private=true&theme=dracula)
+<p align="center">
+ <img height=300px  src="https://activity-graph.herokuapp.com/graph?username=740fernando&bg_color=44475a&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true&count_private=true&theme=dracula" />
+</p>
 
 
 ----------------------------------------------------------------------------------
